@@ -17,6 +17,7 @@ export default {
   data(){
     return {
       beers: [],
+      favouriteBeers: [],
       selectedBeer: null  }
   },
   components: {
